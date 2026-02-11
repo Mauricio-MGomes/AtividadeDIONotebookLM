@@ -1,0 +1,2 @@
+# AtividadeDIONotebookLM
+Atividade Bootcamp DIO
